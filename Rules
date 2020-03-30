@@ -1,0 +1,8 @@
+// This file is to maintain the rule od the project
+
+// File naming
+    1) at the time of file renaming pls use underscore instread of "space"
+    2) before working on a file pls fetch to update your local file
+    3) after working pls push to the repo to update the source file
+    4) if you are not sure of your changs pls do not commit to the master chain use a new chain
+    5) if write the change log at the time of commit 
